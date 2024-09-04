@@ -1,0 +1,22 @@
+.input-file-element::file-selector-button {
+    margin-right: 5px;
+    border: none;
+    background: #084cdf;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+  
+.input-file-element::file-selector-button:hover {
+  background: #0d45a5;
+}
+
+.submit-button{
+  background-color: var(--DarkBlue);
+  color: var(--Light);
+
+}
+.input-file-element{
+  font-size: 0.5em;
+}

@@ -1,0 +1,8 @@
+.select-card{
+    background-color: #ffffff;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+.label-selection-button{
+    font-size: 10px;
+}

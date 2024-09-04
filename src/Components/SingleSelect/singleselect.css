@@ -1,0 +1,21 @@
+.select-card{
+    background-color: #ffffff;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+
+.dropdown-icon{
+    z-index: -10;
+}
+
+.select-card::-webkit-scrollbar {
+    width: 2px;
+    height: 5px;
+  }
+  
+  .select-card::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+  }
+
+  

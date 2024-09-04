@@ -1,0 +1,13 @@
+.pie-chart-card{
+    min-width: 50%;
+    max-width: 60%;
+}
+
+@media screen and (max-width:600px) {
+    .pie-chart-card{
+        min-width: 90%;
+        max-width: 95%;
+    }
+    
+}
+
